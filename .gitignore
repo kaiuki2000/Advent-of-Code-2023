@@ -23,3 +23,6 @@
 
 # Ignore v_env
 /AoC_venv
+
+# Any python cache
+__pycache__/
